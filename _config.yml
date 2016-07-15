@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://dyerw.github.io
+title: SinSilico
+email: liamd94@gmail.com
+author: Liam Dyer
+description: An attempt to appease the madness creeping in at the edges of an existence spent in front of computer monitors
+paginate: 3
+google_analytics: 
